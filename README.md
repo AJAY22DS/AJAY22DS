@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning Natural language processing (NLP) & Computer Vision.
 
-* 📫 How to reach me ajay220392@gmail.com ...
+* 📫 You can reach me at ajay220392@gmail.com ...
 
 <!---
 AJAY22DS/AJAY22DS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
